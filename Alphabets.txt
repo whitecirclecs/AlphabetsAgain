@@ -16,3 +16,4 @@ coffe
 Dell
 HP
 Apple
+Lenovo
