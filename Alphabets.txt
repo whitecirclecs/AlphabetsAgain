@@ -17,3 +17,6 @@ Dell
 HP
 Apple
 Lenovo
+htc
+Samsung
+Redmi
