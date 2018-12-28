@@ -13,3 +13,6 @@ PQR
 S
 T
 coffe
+Dell
+HP
+Apple
